@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/dymaxionlabs/ap-latam.svg?branch=master)](https://travis-ci.org/dymaxionlabs/ap-latam)
 [![codecov](https://codecov.io/gh/dymaxionlabs/ap-latam/branch/master/graph/badge.svg)](https://codecov.io/gh/dymaxionlabs/ap-latam)
 [![Join the chat at https://gitter.im/dymaxionlabs/ap-latam](https://badges.gitter.im/dymaxionlabs/ap-latam.svg)](https://gitter.im/dymaxionlabs/ap-latam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmadarasatt%2Fap-latam.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmadarasatt%2Fap-latam?ref=badge_shield)
 
 This is the main repository of AP Latam project.
 
@@ -119,3 +120,6 @@ For more details, see the file [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Source code is released under a BSD-2 license.  Please refer to
 [LICENSE.md](LICENSE.md) for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmadarasatt%2Fap-latam.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmadarasatt%2Fap-latam?ref=badge_large)

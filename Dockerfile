@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-gpu-py3
+FROM tensorflow/tensorflow:2.2.0rc2-gpu-py3
 
 ENV PYTHONUNBUFFERED 1
 
